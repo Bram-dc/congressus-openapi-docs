@@ -210,6 +210,7 @@
           }
         },
         "summary": "List Background processs",
+        "operationId": "listBackgroundProcesses",
         "description": "",
         "x-codeSamples": [
           {
@@ -292,6 +293,7 @@
           }
         },
         "summary": "Retrieve BackgroundProcess",
+        "operationId": "retrieveBackgroundProcess",
         "description": "",
         "tags": [
           "Background processes"
@@ -375,6 +377,7 @@
           }
         },
         "summary": "Retrieve BackgroundProcess",
+        "operationId": "retrieveBackgroundProcessResult",
         "description": "",
         "tags": [
           "Background processes"
@@ -566,6 +569,7 @@
           }
         },
         "summary": "List bank mutations",
+        "operationId": "listBankMutations",
         "description": "",
         "x-codeSamples": [
           {
@@ -648,6 +652,7 @@
           }
         },
         "summary": "Retrieve bank mutation",
+        "operationId": "retrieveBankMutation",
         "description": "",
         "tags": [
           "Bank mutations"
@@ -711,6 +716,7 @@
           }
         },
         "summary": "Delete bank mutation",
+        "operationId": "deleteBankMutation",
         "description": "",
         "tags": [
           "Bank mutations"
@@ -795,6 +801,7 @@
           }
         },
         "summary": "Match mutation with a sale invoice",
+        "operationId": "matchBankMutation",
         "description": "",
         "tags": [
           "Bank mutations"
@@ -879,6 +886,7 @@
           }
         },
         "summary": "Remove match with a sale invoice",
+        "operationId": "unmatchBankMutation",
         "description": "",
         "tags": [
           "Bank mutations"
@@ -994,6 +1002,7 @@
           }
         },
         "summary": "List Blog authors",
+        "operationId": "listBlogAuthors",
         "description": "",
         "x-codeSamples": [
           {
@@ -1082,6 +1091,7 @@
           }
         },
         "summary": "Create BlogAuthor",
+        "operationId": "createBlogAuthor",
         "description": "",
         "tags": [
           "Blogs"
@@ -1154,6 +1164,7 @@
           }
         },
         "summary": "Retrieve BlogAuthor",
+        "operationId": "retrieveBlogAuthor",
         "description": "",
         "tags": [
           "Blogs"
@@ -1232,6 +1243,7 @@
           }
         },
         "summary": "Update BlogAuthor",
+        "operationId": "updateBlogAuthor",
         "description": "",
         "tags": [
           "Blogs"
@@ -1295,6 +1307,7 @@
           }
         },
         "summary": "Delete BlogAuthor",
+        "operationId": "deleteBlogAuthor",
         "description": "",
         "tags": [
           "Blogs"
@@ -1491,6 +1504,7 @@
           }
         },
         "summary": "List Blogs",
+        "operationId": "listBlogs",
         "description": "",
         "x-codeSamples": [
           {
@@ -1579,6 +1593,7 @@
           }
         },
         "summary": "Create Blog",
+        "operationId": "createBlog",
         "description": "",
         "tags": [
           "Blogs"
@@ -1651,6 +1666,7 @@
           }
         },
         "summary": "Retrieve Blog",
+        "operationId": "retrieveBlog",
         "description": "",
         "tags": [
           "Blogs"
@@ -1729,6 +1745,7 @@
           }
         },
         "summary": "Update Blog",
+        "operationId": "updateBlog",
         "description": "",
         "tags": [
           "Blogs"
@@ -1792,6 +1809,7 @@
           }
         },
         "summary": "Delete Blog",
+        "operationId": "deleteBlog",
         "description": "",
         "tags": [
           "Blogs"
@@ -1883,6 +1901,7 @@
           }
         },
         "summary": "Create BlogTextParagraph",
+        "operationId": "createBlogTextParagraph",
         "description": "",
         "tags": [
           "Blogs"
@@ -1974,6 +1993,7 @@
           }
         },
         "summary": "Create BlogImageParagraph",
+        "operationId": "createBlogImageParagraph",
         "description": "",
         "tags": [
           "Blogs"
@@ -2057,6 +2077,7 @@
           }
         },
         "summary": "Retrieve BlogTextParagraph",
+        "operationId": "retrieveBlogTextParagraph",
         "description": "",
         "tags": [
           "Blogs"
@@ -2135,6 +2156,7 @@
           }
         },
         "summary": "Update BlogTextParagraph",
+        "operationId": "updateBlogTextParagraph",
         "description": "",
         "tags": [
           "Blogs"
@@ -2198,6 +2220,7 @@
           }
         },
         "summary": "Delete BlogTextParagraph",
+        "operationId": "deleteBlogTextParagraph",
         "description": "",
         "tags": [
           "Blogs"
@@ -2281,6 +2304,7 @@
           }
         },
         "summary": "Retrieve BlogImageParagraph",
+        "operationId": "retrieveBlogImageParagraph",
         "description": "",
         "tags": [
           "Blogs"
@@ -2359,6 +2383,7 @@
           }
         },
         "summary": "Update BlogImageParagraph",
+        "operationId": "updateBlogImageParagraph",
         "description": "",
         "tags": [
           "Blogs"
@@ -2422,6 +2447,7 @@
           }
         },
         "summary": "Delete BlogImageParagraph",
+        "operationId": "deleteBlogImageParagraph",
         "description": "",
         "tags": [
           "Blogs"
@@ -2537,6 +2563,7 @@
           }
         },
         "summary": "List Blog categories",
+        "operationId": "listBlogCategories",
         "description": "",
         "x-codeSamples": [
           {
@@ -2625,6 +2652,7 @@
           }
         },
         "summary": "Create Blog category",
+        "operationId": "createBlogCategory",
         "description": "",
         "tags": [
           "Blogs"
@@ -2697,6 +2725,7 @@
           }
         },
         "summary": "Retrieve Blog category",
+        "operationId": "retrieveBlogCategory",
         "description": "",
         "tags": [
           "Blogs"
@@ -2775,6 +2804,7 @@
           }
         },
         "summary": "Update Blog category",
+        "operationId": "updateBlogCategory",
         "description": "",
         "tags": [
           "Blogs"
@@ -2838,6 +2868,7 @@
           }
         },
         "summary": "Delete Blog category",
+        "operationId": "deleteBlogCategory",
         "description": "",
         "tags": [
           "Blogs"
@@ -2953,6 +2984,7 @@
           }
         },
         "summary": "List Blog issues",
+        "operationId": "listBlogIssues",
         "description": "",
         "x-codeSamples": [
           {
@@ -3041,6 +3073,7 @@
           }
         },
         "summary": "Create BlogIssue",
+        "operationId": "createBlogIssue",
         "description": "",
         "tags": [
           "Blogs"
@@ -3113,6 +3146,7 @@
           }
         },
         "summary": "Retrieve BlogIssue",
+        "operationId": "retrieveBlogIssue",
         "description": "",
         "tags": [
           "Blogs"
@@ -3191,6 +3225,7 @@
           }
         },
         "summary": "Update BlogIssue",
+        "operationId": "updateBlogIssue",
         "description": "",
         "tags": [
           "Blogs"
@@ -3254,6 +3289,7 @@
           }
         },
         "summary": "Delete BlogIssue",
+        "operationId": "deleteBlogIssue",
         "description": "",
         "tags": [
           "Blogs"
@@ -3369,6 +3405,7 @@
           }
         },
         "summary": "List Career partner categories",
+        "operationId": "listCareerPartnerCategories",
         "description": "",
         "x-codeSamples": [
           {
@@ -3457,6 +3494,7 @@
           }
         },
         "summary": "Create Career partner category",
+        "operationId": "createCareerPartnerCategory",
         "description": "",
         "tags": [
           "Career partners"
@@ -3529,6 +3567,7 @@
           }
         },
         "summary": "Retrieve Career partner category",
+        "operationId": "retrieveCareerPartnerCategory",
         "description": "",
         "tags": [
           "Career partners"
@@ -3607,6 +3646,7 @@
           }
         },
         "summary": "Update Career partner category",
+        "operationId": "updateCareerPartnerCategory",
         "description": "",
         "tags": [
           "Career partners"
@@ -3670,6 +3710,7 @@
           }
         },
         "summary": "Delete Career partner category",
+        "operationId": "deleteCareerPartnerCategory",
         "description": "",
         "tags": [
           "Career partners"
@@ -3798,6 +3839,7 @@
           }
         },
         "summary": "List Career partners",
+        "operationId": "listCareerPartners",
         "description": "",
         "x-codeSamples": [
           {
@@ -3886,6 +3928,7 @@
           }
         },
         "summary": "Create Career partner",
+        "operationId": "createCareerPartner",
         "description": "",
         "tags": [
           "Career partners"
@@ -3958,6 +4001,7 @@
           }
         },
         "summary": "Retrieve Career partner",
+        "operationId": "retrieveCareerPartner",
         "description": "",
         "tags": [
           "Career partners"
@@ -4036,6 +4080,7 @@
           }
         },
         "summary": "Update Career partner",
+        "operationId": "updateCareerPartner",
         "description": "",
         "tags": [
           "Career partners"
@@ -4099,6 +4144,7 @@
           }
         },
         "summary": "Delete Career partner",
+        "operationId": "deleteCareerPartner",
         "description": "",
         "tags": [
           "Career partners"
@@ -4213,6 +4259,7 @@
           }
         },
         "summary": "List saved replies",
+        "operationId": "listSavedReplies",
         "description": "",
         "x-codeSamples": [
           {
@@ -4301,6 +4348,7 @@
           }
         },
         "summary": "Create SavedReply",
+        "operationId": "createSavedReply",
         "description": "",
         "tags": [
           "Communication"
@@ -4373,6 +4421,7 @@
           }
         },
         "summary": "Retrieve SavedReply",
+        "operationId": "retrieveSavedReply",
         "description": "",
         "tags": [
           "Communication"
@@ -4451,6 +4500,7 @@
           }
         },
         "summary": "Update SavedReply",
+        "operationId": "updateSavedReply",
         "description": "",
         "tags": [
           "Communication"
@@ -4514,6 +4564,7 @@
           }
         },
         "summary": "Delete SavedReply",
+        "operationId": "deleteSavedReply",
         "description": "",
         "tags": [
           "Communication"
@@ -4629,6 +4680,7 @@
           }
         },
         "summary": "List Countries",
+        "operationId": "listCountries",
         "description": "",
         "x-codeSamples": [
           {
@@ -4711,6 +4763,7 @@
           }
         },
         "summary": "Retrieve Country",
+        "operationId": "retrieveCountry",
         "description": "",
         "tags": [
           "Countries"
@@ -4825,6 +4878,7 @@
           }
         },
         "summary": "List Event categories",
+        "operationId": "listEventCategories",
         "description": "",
         "x-codeSamples": [
           {
@@ -5023,6 +5077,7 @@
           }
         },
         "summary": "List Events",
+        "operationId": "listEvents",
         "description": "",
         "x-codeSamples": [
           {
@@ -5111,6 +5166,7 @@
           }
         },
         "summary": "Create Event",
+        "operationId": "createEvent",
         "description": "",
         "tags": [
           "Events"
@@ -5183,6 +5239,7 @@
           }
         },
         "summary": "Retrieve Event",
+        "operationId": "retrieveEvent",
         "description": "",
         "tags": [
           "Events"
@@ -5261,6 +5318,7 @@
           }
         },
         "summary": "Update Event",
+        "operationId": "updateEvent",
         "description": "",
         "tags": [
           "Events"
@@ -5324,6 +5382,7 @@
           }
         },
         "summary": "Delete Event",
+        "operationId": "deleteEvent",
         "description": "",
         "tags": [
           "Events"
@@ -5522,6 +5581,7 @@
           }
         },
         "summary": "List Event participations",
+        "operationId": "listEventParticipations",
         "description": "",
         "x-codeSamples": [
           {
@@ -5615,6 +5675,7 @@
           }
         },
         "summary": "Retrieve Event participation",
+        "operationId": "retrieveEventParticipation",
         "description": "",
         "tags": [
           "Events"
@@ -5693,6 +5754,7 @@
           }
         },
         "summary": "Update Event participation",
+        "operationId": "updateEventParticipation",
         "description": "",
         "tags": [
           "Events"
@@ -5786,6 +5848,7 @@
           }
         },
         "summary": "Set presence on all tickets within participation",
+        "operationId": "setPresence",
         "description": "This action endpoint requires valid `status_presence` data as payload. Optionally, both `participation_certificates_credits_override` and `participation_certificates_date_override` are accepted.",
         "tags": [
           "Events"
@@ -5879,6 +5942,7 @@
           }
         },
         "summary": "Approve participation",
+        "operationId": "approveParticipation",
         "description": "Approve a participation. Requires the participation to be in a state where it can be approved. When `check_conditions` is True, approval is only possible when there are tickets available.",
         "tags": [
           "Events"
@@ -5972,6 +6036,7 @@
           }
         },
         "summary": "Move participation to waiting list",
+        "operationId": "moveToWaitingList",
         "description": "Add participation to the waiting list. When `check_conditions` is True, the waiting list has to be active.",
         "tags": [
           "Events"
@@ -6065,6 +6130,7 @@
           }
         },
         "summary": "Unsubscribe participation",
+        "operationId": "unsubscribeParticipation",
         "description": "Unsubscribe a participation. Requires the participation to be in a state where it can be unsubscribed.",
         "tags": [
           "Events"
@@ -6158,6 +6224,7 @@
           }
         },
         "summary": "Decline participation",
+        "operationId": "declineParticipation",
         "description": "Decline a participation. Requires the participation to be in a state where it can be declined.",
         "tags": [
           "Events"
@@ -6258,6 +6325,7 @@
           }
         },
         "summary": "Create Event Participation (sign up)",
+        "operationId": "createEventParticipation",
         "description": " - Depending on the selected ticket types, `addressee` and e-mail are `required`. They can be omitted if `member_id` is given.\n - `member_id` is required for tickets with `visibility_level=members|members_filter` and should be omitted for tickets with the `visibility_level=external_only`\n - The invoice properties are required when the event has `participation_billing_enabled=True`.\n - `remarks` can be submitted when the event has `participant_remarks_enabled=True`, otherwise they are not editable in the manager\n - When an event has `participation_information_collection_type=ticket`, `name`  and `email` is required per ticket.",
         "tags": [
           "Events"
@@ -6420,6 +6488,7 @@
           }
         },
         "summary": "List Ticket types",
+        "operationId": "listTicketTypes",
         "description": "",
         "x-codeSamples": [
           {
@@ -6508,6 +6577,7 @@
           }
         },
         "summary": "Create Ticket type",
+        "operationId": "createTicketType",
         "description": "",
         "tags": [
           "Events"
@@ -6591,6 +6661,7 @@
           }
         },
         "summary": "Retrieve Ticket type",
+        "operationId": "retrieveTicketType",
         "description": "",
         "tags": [
           "Events"
@@ -6669,6 +6740,7 @@
           }
         },
         "summary": "Update Ticket type",
+        "operationId": "updateTicketType",
         "description": "",
         "tags": [
           "Events"
@@ -6732,6 +6804,7 @@
           }
         },
         "summary": "Delete Ticket type",
+        "operationId": "deleteTicketType",
         "description": "",
         "tags": [
           "Events"
@@ -6766,6 +6839,7 @@
           }
         },
         "summary": "Add a new external invoice import",
+        "operationId": "addExternalInvoiceImport",
         "description": "**Note:** this endpoint is part of the external invoices module and is only available if the module is enabled.\n\nTo import external invoices, you need to send a `multipart/form-data` POST request to this endpoint. The following\nfields are required:\n\n- `file`: The file to import;\n- `source`: The source of the file (e.g. \"creo\"), this value can be defined by the client but should be consistent;\n- `format`: The format of the file (e.g. \"eExact\"), this value is used to validate and parse the file.\n\n### Example\n\nBelow is a raw HTTP request that can be used to import an external invoice file:\n\n```http\nPOST http://api.congressus.nl/v30/external-invoices/imports\nAuthorization: Bearer [your bearer token]\nContent-Type: multipart/form-data; boundary=WebAppBoundary\n\n--WebAppBoundary\nContent-Disposition: form-data; name=\"source\"\nContent-Type: text/plain\n\ncreo\n--WebAppBoundary\nContent-Disposition: form-data; name=\"format\"\nContent-Type: text/plain\n\neExact\n--WebAppBoundary\nContent-Disposition: form-data; name=\"file\"; filename=\"export_01-02-2023.xml\"\n\n< /path/to/export_01-02-2023.xml\n--WebAppBoundary--\n```\n\nYou can perform the same request using `curl`:\n\n```bash\ncurl -X POST --location \"http://api.congressus.nl/v30/external-invoices/imports\" \\\n    -H \"Authorization: Bearer [your bearer token]\" \\\n    -H \"Content-Type: multipart/form-data; boundary=WebAppBoundary\" \\\n    -F \"source=creo;type=text/plain\" \\\n    -F \"format=eExact;type=text/plain\" \\\n    -F \"file=@/path/to/export_01-02-2023.xml;filename=export_01-02-2023.xml;type=*/*\"\n```",
         "tags": [
           "External invoices"
@@ -6882,6 +6956,7 @@
           }
         },
         "summary": "List Gallery albums",
+        "operationId": "listGalleryAlbums",
         "description": "",
         "x-codeSamples": [
           {
@@ -6964,6 +7039,7 @@
           }
         },
         "summary": "Retrieve Gallery album",
+        "operationId": "retrieveGalleryAlbum",
         "description": "",
         "tags": [
           "Galleries"
@@ -7078,6 +7154,7 @@
           }
         },
         "summary": "List Gallery photos",
+        "operationId": "listGalleryPhotos",
         "description": "",
         "x-codeSamples": [
           {
@@ -7171,6 +7248,7 @@
           }
         },
         "summary": "Retrieve Gallery photo",
+        "operationId": "retrieveGalleryPhoto",
         "description": "",
         "tags": [
           "Galleries"
@@ -7294,6 +7372,7 @@
           }
         },
         "summary": "List Group folders - recursive",
+        "operationId": "listGroupFoldersRecursive",
         "description": "Recursive list with all group folders and their children. Added for convenience, e.g. when you\n    want to render a select dropdown with all folders.",
         "x-codeSamples": [
           {
@@ -7428,6 +7507,7 @@
           }
         },
         "summary": "List Group folders",
+        "operationId": "listGroupFolders",
         "description": "",
         "x-codeSamples": [
           {
@@ -7516,6 +7596,7 @@
           }
         },
         "summary": "Create Group folder",
+        "operationId": "createGroupFolder",
         "description": "",
         "tags": [
           "Group folders"
@@ -7588,6 +7669,7 @@
           }
         },
         "summary": "Retrieve Group folder",
+        "operationId": "retrieveGroupFolder",
         "description": "",
         "tags": [
           "Group folders"
@@ -7666,6 +7748,7 @@
           }
         },
         "summary": "Update Group folder",
+        "operationId": "updateGroupFolder",
         "description": "",
         "tags": [
           "Group folders"
@@ -7729,6 +7812,7 @@
           }
         },
         "summary": "Delete Group folder",
+        "operationId": "deleteGroupFolder",
         "description": "",
         "tags": [
           "Group folders"
@@ -7843,6 +7927,7 @@
           }
         },
         "summary": "List Group folders - recursive",
+        "operationId": "listGroupFoldersRecursive",
         "description": "Use /group-folders/recursive endpoint instead",
         "deprecated": true,
         "x-codeSamples": [
@@ -7978,6 +8063,7 @@
           }
         },
         "summary": "List Group folders",
+        "operationId": "listGroupFolders",
         "description": "Use /group-folders endpoint instead",
         "deprecated": true,
         "x-codeSamples": [
@@ -8067,6 +8153,7 @@
           }
         },
         "summary": "Create Group folder",
+        "operationId": "createGroupFolder",
         "description": "Use /group-folders endpoint instead",
         "deprecated": true,
         "tags": [
@@ -8140,6 +8227,7 @@
           }
         },
         "summary": "Retrieve Group folder",
+        "operationId": "retrieveGroupFolder",
         "description": "Use /group-folders/{obj_id} endpoint instead",
         "deprecated": true,
         "tags": [
@@ -8219,6 +8307,7 @@
           }
         },
         "summary": "Update Group folder",
+        "operationId": "updateGroupFolder",
         "description": "Use /group-folders/{obj_id} endpoint instead",
         "deprecated": true,
         "tags": [
@@ -8283,6 +8372,7 @@
           }
         },
         "summary": "Delete Group folder",
+        "operationId": "deleteGroupFolder",
         "description": "Use /group-folders/{obj_id} endpoint instead",
         "deprecated": true,
         "tags": [
@@ -8453,6 +8543,7 @@
           }
         },
         "summary": "List Groups",
+        "operationId": "listGroups",
         "description": "",
         "x-codeSamples": [
           {
@@ -8535,6 +8626,7 @@
           }
         },
         "summary": "Retrieve Group",
+        "operationId": "retrieveGroup",
         "description": "",
         "tags": [
           "Groups"
@@ -8613,6 +8705,7 @@
           }
         },
         "summary": "Update Group",
+        "operationId": "updateGroup",
         "description": "",
         "tags": [
           "Groups"
@@ -8676,6 +8769,7 @@
           }
         },
         "summary": "Delete Group",
+        "operationId": "deleteGroup",
         "description": "",
         "tags": [
           "Groups"
@@ -8819,6 +8913,7 @@
           }
         },
         "summary": "List Group memberships",
+        "operationId": "listGroupMemberships",
         "description": "",
         "x-codeSamples": [
           {
@@ -8907,6 +9002,7 @@
           }
         },
         "summary": "Create Group membership",
+        "operationId": "createGroupMembership",
         "description": "",
         "tags": [
           "Groups"
@@ -8979,6 +9075,7 @@
           }
         },
         "summary": "Retrieve Group membership",
+        "operationId": "retrieveGroupMembership",
         "description": "",
         "tags": [
           "Groups"
@@ -9057,6 +9154,7 @@
           }
         },
         "summary": "Update Group membership",
+        "operationId": "updateGroupMembership",
         "description": "",
         "tags": [
           "Groups"
@@ -9120,6 +9218,7 @@
           }
         },
         "summary": "Delete Group membership",
+        "operationId": "deleteGroupMembership",
         "description": "",
         "tags": [
           "Groups"
@@ -9294,6 +9393,7 @@
           }
         },
         "summary": "List Tasks",
+        "operationId": "listTasks",
         "description": "",
         "x-codeSamples": [
           {
@@ -9384,6 +9484,7 @@
           }
         },
         "summary": "Update Task",
+        "operationId": "updateTask",
         "description": "",
         "tags": [
           "Logs"
@@ -9537,6 +9638,7 @@
           }
         },
         "summary": "List Member statuses",
+        "operationId": "listMemberStatuses",
         "description": "Use the _include_hidden_ parameter to include hidden member statuses. Hidden member statuses\n    are not shown by default.",
         "x-codeSamples": [
           {
@@ -9619,6 +9721,7 @@
           }
         },
         "summary": "Retrieve Member status",
+        "operationId": "retrieveMemberStatus",
         "description": "",
         "tags": [
           "Member statuses"
@@ -9697,6 +9800,7 @@
           }
         },
         "summary": "Update Member status",
+        "operationId": "updateMemberStatus",
         "description": "",
         "tags": [
           "Member statuses"
@@ -9760,6 +9864,7 @@
           }
         },
         "summary": "Delete Member status",
+        "operationId": "deleteMemberStatus",
         "description": "",
         "tags": [
           "Member statuses"
@@ -9874,6 +9979,7 @@
           }
         },
         "summary": "List Custom fields",
+        "operationId": "listCustomFields",
         "description": "",
         "x-codeSamples": [
           {
@@ -9956,6 +10062,7 @@
           }
         },
         "summary": "Retrieve Custom field by ID",
+        "operationId": "retrieveCustomFieldById",
         "description": "",
         "tags": [
           "Members"
@@ -10039,6 +10146,7 @@
           }
         },
         "summary": "Retrieve Custom field by ref",
+        "operationId": "retrieveCustomFieldByRef",
         "description": "",
         "tags": [
           "Members"
@@ -10187,6 +10295,7 @@
           }
         },
         "summary": "List LogEntries",
+        "operationId": "listLogEntries",
         "description": "List log entries. Log entries can be of type `note`, `task`, `action` or `change`.",
         "x-codeSamples": [
           {
@@ -10275,6 +10384,7 @@
           }
         },
         "summary": "Create LogEntry",
+        "operationId": "createLogEntry",
         "description": "Create a log entry. This is only possible for log entries of type `note` or `task`.",
         "tags": [
           "Members"
@@ -10358,6 +10468,7 @@
           }
         },
         "summary": "Retrieve LogEntry",
+        "operationId": "retrieveLogEntry",
         "description": "",
         "tags": [
           "Members"
@@ -10436,6 +10547,7 @@
           }
         },
         "summary": "Update LogEntry",
+        "operationId": "updateLogEntry",
         "description": "\n## Update a log entry\n\n### Limitations:\nThis is only possible for log entries of type `note` or `task`.\n\n### Updating simple fields:\nFor notes, only the `text` field can be updated. For tasks, it's also possible to update the assignee through the\n`assignee_type` and `assignee_id` fields.\n\n### Marking tasks as completed:\nTasks can also be marked as complete by setting `is_completed` to true and\noptionally setting `completed_by_id` to the ID of the user that completed the task. If `completed_by_id` is not set,\nthe current user will be used.\n",
         "tags": [
           "Members"
@@ -10499,6 +10611,7 @@
           }
         },
         "summary": "Delete LogEntry",
+        "operationId": "deleteLogEntry",
         "description": "Delete a log entry. This is only possible for log entries of type `note` or `task`.",
         "tags": [
           "Members"
@@ -10672,6 +10785,7 @@
           }
         },
         "summary": "List Members",
+        "operationId": "listMembers",
         "description": "By passing the `context` query filter\neach row is filtered according to the context derived by there status.\nThis means that each row will only contain the fields that are set to visible or higher.\nThe settings for each context can be found in the manager: https://manager.congressus.nl/settings/statuses",
         "x-codeSamples": [
           {
@@ -10784,6 +10898,7 @@
           }
         },
         "summary": "Create Member",
+        "operationId": "createMember",
         "description": "",
         "tags": [
           "Members"
@@ -10879,6 +10994,7 @@
           }
         },
         "summary": "Retrieve Member",
+        "operationId": "retrieveMember",
         "description": "",
         "tags": [
           "Members"
@@ -10981,6 +11097,7 @@
           }
         },
         "summary": "Update Member",
+        "operationId": "updateMember",
         "description": "",
         "tags": [
           "Members"
@@ -11044,6 +11161,7 @@
           }
         },
         "summary": "Delete Member",
+        "operationId": "deleteMember",
         "description": "",
         "tags": [
           "Members"
@@ -11158,6 +11276,7 @@
           }
         },
         "summary": "List Membership statuses",
+        "operationId": "listMembershipStatuses",
         "description": "",
         "x-codeSamples": [
           {
@@ -11246,6 +11365,7 @@
           }
         },
         "summary": "Create Membership status",
+        "operationId": "createMembershipStatus",
         "description": "",
         "tags": [
           "Members"
@@ -11329,6 +11449,7 @@
           }
         },
         "summary": "Retrieve Membership status",
+        "operationId": "retrieveMembershipStatus",
         "description": "",
         "tags": [
           "Members"
@@ -11407,6 +11528,7 @@
           }
         },
         "summary": "Update Membership status",
+        "operationId": "updateMembershipStatus",
         "description": "",
         "tags": [
           "Members"
@@ -11470,6 +11592,7 @@
           }
         },
         "summary": "Delete Membership status",
+        "operationId": "deleteMembershipStatus",
         "description": "",
         "tags": [
           "Members"
@@ -11604,6 +11727,7 @@
           }
         },
         "summary": "Search Members",
+        "operationId": "searchMembers",
         "description": "",
         "x-codeSamples": [
           {
@@ -11770,6 +11894,7 @@
           }
         },
         "summary": "List News",
+        "operationId": "listNews",
         "description": "",
         "x-codeSamples": [
           {
@@ -11858,6 +11983,7 @@
           }
         },
         "summary": "Create News",
+        "operationId": "createNews",
         "description": "",
         "tags": [
           "News"
@@ -11930,6 +12056,7 @@
           }
         },
         "summary": "Retrieve News",
+        "operationId": "retrieveNews",
         "description": "",
         "tags": [
           "News"
@@ -12008,6 +12135,7 @@
           }
         },
         "summary": "Update News",
+        "operationId": "updateNews",
         "description": "",
         "tags": [
           "News"
@@ -12071,6 +12199,7 @@
           }
         },
         "summary": "Delete News",
+        "operationId": "deleteNews",
         "description": "",
         "tags": [
           "News"
@@ -12186,6 +12315,7 @@
           }
         },
         "summary": "List Notifications",
+        "operationId": "listNotifications",
         "description": "",
         "x-codeSamples": [
           {
@@ -12300,6 +12430,7 @@
           }
         },
         "summary": "List Organisation categories",
+        "operationId": "listOrganisationCategories",
         "description": "",
         "x-codeSamples": [
           {
@@ -12388,6 +12519,7 @@
           }
         },
         "summary": "Create Organisation category",
+        "operationId": "createOrganisationCategory",
         "description": "",
         "tags": [
           "Organisations"
@@ -12460,6 +12592,7 @@
           }
         },
         "summary": "Retrieve Organisation category",
+        "operationId": "retrieveOrganisationCategory",
         "description": "",
         "tags": [
           "Organisations"
@@ -12538,6 +12671,7 @@
           }
         },
         "summary": "Update Organisation category",
+        "operationId": "updateOrganisationCategory",
         "description": "",
         "tags": [
           "Organisations"
@@ -12601,6 +12735,7 @@
           }
         },
         "summary": "Delete Organisation category",
+        "operationId": "deleteOrganisationCategory",
         "description": "",
         "tags": [
           "Organisations"
@@ -12771,6 +12906,7 @@
           }
         },
         "summary": "List Organisations",
+        "operationId": "listOrganisations",
         "description": "",
         "x-codeSamples": [
           {
@@ -12859,6 +12995,7 @@
           }
         },
         "summary": "Create Organisation",
+        "operationId": "createOrganisation",
         "description": "",
         "tags": [
           "Organisations"
@@ -12931,6 +13068,7 @@
           }
         },
         "summary": "Retrieve Organisation",
+        "operationId": "retrieveOrganisation",
         "description": "",
         "tags": [
           "Organisations"
@@ -13009,6 +13147,7 @@
           }
         },
         "summary": "Update Organisation",
+        "operationId": "updateOrganisation",
         "description": "",
         "tags": [
           "Organisations"
@@ -13072,6 +13211,7 @@
           }
         },
         "summary": "Delete Organisation",
+        "operationId": "deleteOrganisation",
         "description": "",
         "tags": [
           "Organisations"
@@ -13215,6 +13355,7 @@
           }
         },
         "summary": "List Organisation memberships",
+        "operationId": "listOrganisationMemberships",
         "description": "",
         "x-codeSamples": [
           {
@@ -13303,6 +13444,7 @@
           }
         },
         "summary": "Create Organisation membership",
+        "operationId": "createOrganisationMembership",
         "description": "",
         "tags": [
           "Organisations"
@@ -13375,6 +13517,7 @@
           }
         },
         "summary": "Retrieve Organisation membership",
+        "operationId": "retrieveOrganisationMembership",
         "description": "",
         "tags": [
           "Organisations"
@@ -13453,6 +13596,7 @@
           }
         },
         "summary": "Update Organisation membership",
+        "operationId": "updateOrganisationMembership",
         "description": "",
         "tags": [
           "Organisations"
@@ -13516,6 +13660,7 @@
           }
         },
         "summary": "Delete Organisation membership",
+        "operationId": "deleteOrganisationMembership",
         "description": "",
         "tags": [
           "Organisations"
@@ -13651,6 +13796,7 @@
           }
         },
         "summary": "List Product folders - recursive",
+        "operationId": "listProductFoldersRecursive",
         "description": "Recursive list with all product folders and their children. Added for convenience, e.g. when you\n    want to render a select dropdown with all folders.",
         "x-codeSamples": [
           {
@@ -13785,6 +13931,7 @@
           }
         },
         "summary": "List Product folders",
+        "operationId": "listProductFolders",
         "description": "",
         "x-codeSamples": [
           {
@@ -13873,6 +14020,7 @@
           }
         },
         "summary": "Create Product folder",
+        "operationId": "createProductFolder",
         "description": "",
         "tags": [
           "Product folders"
@@ -13945,6 +14093,7 @@
           }
         },
         "summary": "Retrieve Product folder",
+        "operationId": "retrieveProductFolder",
         "description": "",
         "tags": [
           "Product folders"
@@ -14023,6 +14172,7 @@
           }
         },
         "summary": "Update Product folder",
+        "operationId": "updateProductFolder",
         "description": "",
         "tags": [
           "Product folders"
@@ -14086,6 +14236,7 @@
           }
         },
         "summary": "Delete Product folder",
+        "operationId": "deleteProductFolder",
         "description": "",
         "tags": [
           "Product folders"
@@ -14243,6 +14394,7 @@
           }
         },
         "summary": "List Products",
+        "operationId": "listProducts",
         "description": "",
         "x-codeSamples": [
           {
@@ -14331,6 +14483,7 @@
           }
         },
         "summary": "Create Product",
+        "operationId": "createProduct",
         "description": "",
         "tags": [
           "Products"
@@ -14403,6 +14556,7 @@
           }
         },
         "summary": "Retrieve Product",
+        "operationId": "retrieveProduct",
         "description": "",
         "tags": [
           "Products"
@@ -14481,6 +14635,7 @@
           }
         },
         "summary": "Update Product",
+        "operationId": "updateProduct",
         "description": "",
         "tags": [
           "Products"
@@ -14544,6 +14699,7 @@
           }
         },
         "summary": "Delete Product",
+        "operationId": "deleteProduct",
         "description": "",
         "tags": [
           "Products"
@@ -14692,6 +14848,7 @@
           }
         },
         "summary": "List LogEntries",
+        "operationId": "listLogEntries",
         "description": "List log entries. Log entries can be of type `note`, `task`, `action` or `change`.",
         "x-codeSamples": [
           {
@@ -14780,6 +14937,7 @@
           }
         },
         "summary": "Create LogEntry",
+        "operationId": "createLogEntry",
         "description": "Create a log entry. This is only possible for log entries of type `note` or `task`.",
         "tags": [
           "Sale invoices"
@@ -14863,6 +15021,7 @@
           }
         },
         "summary": "Retrieve LogEntry",
+        "operationId": "retrieveLogEntry",
         "description": "",
         "tags": [
           "Sale invoices"
@@ -14941,6 +15100,7 @@
           }
         },
         "summary": "Update LogEntry",
+        "operationId": "updateLogEntry",
         "description": "\n## Update a log entry\n\n### Limitations:\nThis is only possible for log entries of type `note` or `task`.\n\n### Updating simple fields:\nFor notes, only the `text` field can be updated. For tasks, it's also possible to update the assignee through the\n`assignee_type` and `assignee_id` fields.\n\n### Marking tasks as completed:\nTasks can also be marked as complete by setting `is_completed` to true and\noptionally setting `completed_by_id` to the ID of the user that completed the task. If `completed_by_id` is not set,\nthe current user will be used.\n",
         "tags": [
           "Sale invoices"
@@ -15004,6 +15164,7 @@
           }
         },
         "summary": "Delete LogEntry",
+        "operationId": "deleteLogEntry",
         "description": "Delete a log entry. This is only possible for log entries of type `note` or `task`.",
         "tags": [
           "Sale invoices"
@@ -15307,6 +15468,7 @@
           }
         },
         "summary": "List Sale invoices",
+        "operationId": "listSaleInvoices",
         "description": "",
         "x-codeSamples": [
           {
@@ -15395,6 +15557,7 @@
           }
         },
         "summary": "Create SaleInvoice",
+        "operationId": "createSaleInvoice",
         "description": "",
         "tags": [
           "Sale invoices"
@@ -15467,6 +15630,7 @@
           }
         },
         "summary": "Retrieve sale invoice",
+        "operationId": "retrieveSaleInvoice",
         "description": "",
         "tags": [
           "Sale invoices"
@@ -15545,6 +15709,7 @@
           }
         },
         "summary": "Update sale invoice",
+        "operationId": "updateSaleInvoice",
         "description": "",
         "tags": [
           "Sale invoices"
@@ -15608,6 +15773,7 @@
           }
         },
         "summary": "Delete sale invoice",
+        "operationId": "deleteSaleInvoice",
         "description": "",
         "tags": [
           "Sale invoices"
@@ -15692,6 +15858,7 @@
           }
         },
         "summary": "Send a sale invoice",
+        "operationId": "sendSaleInvoice",
         "description": "",
         "tags": [
           "Sale invoices"
@@ -15776,6 +15943,7 @@
           }
         },
         "summary": "Remind a sale invoice",
+        "operationId": "remindSaleInvoice",
         "description": "",
         "tags": [
           "Sale invoices"
@@ -15860,6 +16028,7 @@
           }
         },
         "summary": "Mark sale invoice as uncollectible",
+        "operationId": "markSaleInvoiceAsUncollectible",
         "description": "",
         "tags": [
           "Sale invoices"
@@ -15944,6 +16113,7 @@
           }
         },
         "summary": "Mark sale invoice as collectible",
+        "operationId": "markSaleInvoiceAsCollectible",
         "description": "",
         "tags": [
           "Sale invoices"
@@ -16020,6 +16190,7 @@
           }
         },
         "summary": "Download a sale invoice as PDF file",
+        "operationId": "downloadSaleInvoice",
         "description": "",
         "tags": [
           "Sale invoices"
@@ -16135,6 +16306,7 @@
           }
         },
         "summary": "List sale invoice items",
+        "operationId": "listSaleInvoiceItems",
         "description": "",
         "x-codeSamples": [
           {
@@ -16223,6 +16395,7 @@
           }
         },
         "summary": "Create sale invoice item",
+        "operationId": "createSaleInvoiceItem",
         "description": "",
         "tags": [
           "Sale invoices"
@@ -16337,6 +16510,7 @@
           }
         },
         "summary": "List sale invoice workflows",
+        "operationId": "listSaleInvoiceWorkflows",
         "description": "",
         "x-codeSamples": [
           {
@@ -16451,6 +16625,7 @@
           }
         },
         "summary": "List StorageObjects",
+        "operationId": "listStorageObjects",
         "description": "",
         "x-codeSamples": [
           {
@@ -16539,6 +16714,7 @@
           }
         },
         "summary": "Create StorageObject",
+        "operationId": "createStorageObject",
         "description": "",
         "tags": [
           "Storage"
@@ -16611,6 +16787,7 @@
           }
         },
         "summary": "Retrieve StorageObject",
+        "operationId": "retrieveStorageObject",
         "description": "",
         "tags": [
           "Storage"
@@ -16689,6 +16866,7 @@
           }
         },
         "summary": "Update StorageObject",
+        "operationId": "updateStorageObject",
         "description": "",
         "tags": [
           "Storage"
@@ -16752,6 +16930,7 @@
           }
         },
         "summary": "Delete StorageObject",
+        "operationId": "deleteStorageObject",
         "description": "",
         "tags": [
           "Storage"
@@ -16791,6 +16970,7 @@
           }
         },
         "summary": "Upload a file to an existing storage object",
+        "operationId": "uploadFileToStorageObject",
         "tags": [
           "Storage"
         ]
@@ -16905,6 +17085,7 @@
           }
         },
         "summary": "List Webhooks",
+        "operationId": "listWebhooks",
         "description": "",
         "x-codeSamples": [
           {
@@ -16993,6 +17174,7 @@
           }
         },
         "summary": "Create Webhook",
+        "operationId": "createWebhook",
         "description": "",
         "tags": [
           "Webhooks"
@@ -17065,6 +17247,7 @@
           }
         },
         "summary": "Retrieve Webhook",
+        "operationId": "retrieveWebhook",
         "description": "",
         "tags": [
           "Webhooks"
@@ -17143,6 +17326,7 @@
           }
         },
         "summary": "Update Webhook",
+        "operationId": "updateWebhook",
         "description": "",
         "tags": [
           "Webhooks"
@@ -17206,6 +17390,7 @@
           }
         },
         "summary": "Delete Webhook",
+        "operationId": "deleteWebhook",
         "description": "",
         "tags": [
           "Webhooks"
@@ -17349,6 +17534,7 @@
           }
         },
         "summary": "List Webhook calls",
+        "operationId": "listWebhookCalls",
         "description": "",
         "x-codeSamples": [
           {
@@ -17514,6 +17700,7 @@
           }
         },
         "summary": "List Webpages",
+        "operationId": "listWebpages",
         "description": "",
         "x-codeSamples": [
           {
@@ -17596,6 +17783,7 @@
           }
         },
         "summary": "Retrieve Webpage",
+        "operationId": "retrieveWebpage",
         "description": "",
         "tags": [
           "Webpages"
@@ -17738,6 +17926,7 @@
           }
         },
         "summary": "List Websites",
+        "operationId": "listWebsites",
         "description": "",
         "x-codeSamples": [
           {
@@ -17820,6 +18009,7 @@
           }
         },
         "summary": "Retrieve Website",
+        "operationId": "retrieveWebsite",
         "description": "",
         "tags": [
           "Websites"
@@ -17975,6 +18165,7 @@
           }
         },
         "summary": "List Webpages",
+        "operationId": "listWebpages",
         "description": "Retrieve the complete tree of Webpages on this Website.",
         "x-codeSamples": [
           {
