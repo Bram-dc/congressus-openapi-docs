@@ -7927,7 +7927,6 @@
           }
         },
         "summary": "List Group folders - recursive",
-        "operationId": "listGroupFoldersRecursive",
         "description": "Use /group-folders/recursive endpoint instead",
         "deprecated": true,
         "x-codeSamples": [
@@ -8063,7 +8062,6 @@
           }
         },
         "summary": "List Group folders",
-        "operationId": "listGroupFolders",
         "description": "Use /group-folders endpoint instead",
         "deprecated": true,
         "x-codeSamples": [
@@ -8153,7 +8151,6 @@
           }
         },
         "summary": "Create Group folder",
-        "operationId": "createGroupFolder",
         "description": "Use /group-folders endpoint instead",
         "deprecated": true,
         "tags": [
@@ -8227,7 +8224,6 @@
           }
         },
         "summary": "Retrieve Group folder",
-        "operationId": "retrieveGroupFolder",
         "description": "Use /group-folders/{obj_id} endpoint instead",
         "deprecated": true,
         "tags": [
@@ -8307,7 +8303,6 @@
           }
         },
         "summary": "Update Group folder",
-        "operationId": "updateGroupFolder",
         "description": "Use /group-folders/{obj_id} endpoint instead",
         "deprecated": true,
         "tags": [
@@ -8372,7 +8367,6 @@
           }
         },
         "summary": "Delete Group folder",
-        "operationId": "deleteGroupFolder",
         "description": "Use /group-folders/{obj_id} endpoint instead",
         "deprecated": true,
         "tags": [
