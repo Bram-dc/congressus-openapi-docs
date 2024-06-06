@@ -10289,7 +10289,7 @@
           }
         },
         "summary": "List LogEntries",
-        "operationId": "listLogEntries",
+        "operationId": "listMemberLogEntries",
         "description": "List log entries. Log entries can be of type `note`, `task`, `action` or `change`.",
         "x-codeSamples": [
           {
@@ -10378,7 +10378,7 @@
           }
         },
         "summary": "Create LogEntry",
-        "operationId": "createLogEntry",
+        "operationId": "createMemberLogEntry",
         "description": "Create a log entry. This is only possible for log entries of type `note` or `task`.",
         "tags": [
           "Members"
@@ -10462,7 +10462,7 @@
           }
         },
         "summary": "Retrieve LogEntry",
-        "operationId": "retrieveLogEntry",
+        "operationId": "retrieveMemberLogEntry",
         "description": "",
         "tags": [
           "Members"
@@ -10541,7 +10541,7 @@
           }
         },
         "summary": "Update LogEntry",
-        "operationId": "updateLogEntry",
+        "operationId": "updateMemberLogEntry",
         "description": "\n## Update a log entry\n\n### Limitations:\nThis is only possible for log entries of type `note` or `task`.\n\n### Updating simple fields:\nFor notes, only the `text` field can be updated. For tasks, it's also possible to update the assignee through the\n`assignee_type` and `assignee_id` fields.\n\n### Marking tasks as completed:\nTasks can also be marked as complete by setting `is_completed` to true and\noptionally setting `completed_by_id` to the ID of the user that completed the task. If `completed_by_id` is not set,\nthe current user will be used.\n",
         "tags": [
           "Members"
@@ -10605,7 +10605,7 @@
           }
         },
         "summary": "Delete LogEntry",
-        "operationId": "deleteLogEntry",
+        "operationId": "deleteMemberLogEntry",
         "description": "Delete a log entry. This is only possible for log entries of type `note` or `task`.",
         "tags": [
           "Members"
@@ -14842,7 +14842,7 @@
           }
         },
         "summary": "List LogEntries",
-        "operationId": "listLogEntries",
+        "operationId": "listSaleInvoiceLogEntries",
         "description": "List log entries. Log entries can be of type `note`, `task`, `action` or `change`.",
         "x-codeSamples": [
           {
@@ -14931,7 +14931,7 @@
           }
         },
         "summary": "Create LogEntry",
-        "operationId": "createLogEntry",
+        "operationId": "createSaleInvoiceLogEntry",
         "description": "Create a log entry. This is only possible for log entries of type `note` or `task`.",
         "tags": [
           "Sale invoices"
@@ -15015,7 +15015,7 @@
           }
         },
         "summary": "Retrieve LogEntry",
-        "operationId": "retrieveLogEntry",
+        "operationId": "retrieveSaleInvoiceLogEntry",
         "description": "",
         "tags": [
           "Sale invoices"
@@ -15094,7 +15094,7 @@
           }
         },
         "summary": "Update LogEntry",
-        "operationId": "updateLogEntry",
+        "operationId": "updateSaleInvoiceLogEntry",
         "description": "\n## Update a log entry\n\n### Limitations:\nThis is only possible for log entries of type `note` or `task`.\n\n### Updating simple fields:\nFor notes, only the `text` field can be updated. For tasks, it's also possible to update the assignee through the\n`assignee_type` and `assignee_id` fields.\n\n### Marking tasks as completed:\nTasks can also be marked as complete by setting `is_completed` to true and\noptionally setting `completed_by_id` to the ID of the user that completed the task. If `completed_by_id` is not set,\nthe current user will be used.\n",
         "tags": [
           "Sale invoices"
@@ -15158,7 +15158,7 @@
           }
         },
         "summary": "Delete LogEntry",
-        "operationId": "deleteLogEntry",
+        "operationId": "deleteSaleInvoiceLogEntry",
         "description": "Delete a log entry. This is only possible for log entries of type `note` or `task`.",
         "tags": [
           "Sale invoices"
@@ -18159,7 +18159,7 @@
           }
         },
         "summary": "List Webpages",
-        "operationId": "listWebpages",
+        "operationId": "listWebsiteWebpages",
         "description": "Retrieve the complete tree of Webpages on this Website.",
         "x-codeSamples": [
           {
