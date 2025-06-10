@@ -24095,12 +24095,6 @@
           "next_num": {
             "type": "integer",
             "nullable": true
-          },
-          "data": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Notifications"
-            }
           }
         }
       },
@@ -25407,12 +25401,6 @@
           "url": {
             "type": "string",
             "format": "url"
-          },
-          "content_rows": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/ContentRow"
-            }
           }
         }
       },
